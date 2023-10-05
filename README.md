@@ -1,9 +1,20 @@
 ### Opa 👍
 
 ##
-<div>
+<div style="align-items: center;">
   <a href="https://github.com/MuriloSchneiderS"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloSchneiderS&hide_progress=true&theme=dark"/></a>
+  <!--<picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=MuriloSchneiderS&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=MuriloSchneiderS&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=MuriloSchneiderS&show_icons=true" />
+  </picture>-->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mrl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -13,7 +24,6 @@
   <img align="center" alt="Mrl-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
   <img align="center" alt="Mrl-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-
 
 ##
 
