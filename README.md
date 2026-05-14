@@ -3,7 +3,7 @@
 ##
 <div style="align-items: center;">
   <a href="https://github.com/MuriloSchneiderS"/>
-  <img width="50%" src="https://github-stats-extended.vercel.app/api?username=MuriloSchneiderS&hide_progress=false&title_color=ff3647&text_color=36ffee&icon_color=ff3647&border_color=36ffee&bg_color=181f27&show_icons=true"/></a>
+  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs?username=MuriloSchneiderS&hide_title=true&langs_count=5&title_color=ff3647&text_color=36ffee&icon_color=ff3647&border_color=36ffee&bg_color=181f27&show_icons=true"/></a>
   <!--<picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=MuriloSchneiderS&title_color=ff3647&text_color=36ffee&icon_color=ff3647&border_color=36ffee&bg_color=181f27&show_icons=true"
